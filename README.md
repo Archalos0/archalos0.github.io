@@ -16,3 +16,8 @@ During my work-study program I mainly worked with Windev, it is a French framewo
 
 Once I obtained my diploma, I decided to stop working to carry out a personal project, which failed. Therefore I decided to learn a new language and decided to turn to Rust in order to get better with the low-level language.
 
+## Projects
+
+| Work-study | Personnal |
+|------------|-----------|
+| ERP        | Calculator|
