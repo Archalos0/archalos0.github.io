@@ -1,4 +1,4 @@
-theme               : minima
+theme               : slate
 # Where things are
 source              : .
 destination         : ./_site
