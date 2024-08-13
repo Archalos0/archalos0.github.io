@@ -20,9 +20,15 @@ Once I obtained my diploma, I decided to stop working to carry out a personal pr
 
 ### Work-study
 
+<<<<<<< Updated upstream
 - Big ERP ![PCSoft icon](assets/icons/pc-soft.jfif),
 - Small ERP but full invoice generator without user input after ![PCSoft icon](assets/icons/pc-soft.jfif),
 - MQTT broker to communicate with 4G devices ![Nodejs icon](assets/icons/nodejs.webp).
+=======
+- Big ERP ![PCSoft icon](assets/icons/pc-soft.png),
+- Small ERP but full invoice generator without user input after ![PCSoft icon](assets/icons/pc-soft.png),
+- MQTT broker to communicate with 4G devices ![Nodejs icon](assets/icons/nodejs.png).
+>>>>>>> Stashed changes
  
 ### Personnal
 
