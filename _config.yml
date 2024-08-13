@@ -1,3 +1,4 @@
+theme               : minima
 # Where things are
 source              : .
 destination         : ./_site
