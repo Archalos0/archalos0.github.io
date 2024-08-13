@@ -18,6 +18,12 @@ Once I obtained my diploma, I decided to stop working to carry out a personal pr
 
 ## Projects
 
-| Work-study | Personnal |
-|------------|-----------|
-| ERP        | Calculator|
+### Work-study
+
+- Big ERP ![PCSoft icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appvizer.fr%2Ftechnologie%2Fediteurs%2Fwindev&psig=AOvVaw18KQ524xvj8CRcleBqcxU1&ust=1723645705493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICQv-qW8ocDFQAAAAAdAAAAABAE),
+- Small ERP but full invoice generator without user input after ![PCSoft icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appvizer.fr%2Ftechnologie%2Fediteurs%2Fwindev&psig=AOvVaw18KQ524xvj8CRcleBqcxU1&ust=1723645705493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICQv-qW8ocDFQAAAAAdAAAAABAE),
+- MQTT broker to communicate with 4G devices ![Nodejs icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fnodejs-2749313&psig=AOvVaw2eyBv3lgjyxdpBb4PT8E5B&ust=1723645860681000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi67K6X8ocDFQAAAAAdAAAAABAE).
+ 
+### Personnal
+
+- 
