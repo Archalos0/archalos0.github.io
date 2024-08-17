@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Bienvenue sur mon site"
+---
+
 # archalos0.github.io
 
 ## Presentation
