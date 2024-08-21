@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "Bienvenue sur mon site"
+title: "Welcome to my website"
+permalink: /en/
+lang: en
+wip: true
 ---
 
 # archalos0.github.io
@@ -25,10 +28,12 @@ Once I obtained my diploma, I decided to stop working to carry out a personal pr
 
 ### Work-study
 
-- Big ERP ![PCSoft icon](assets/icons/pc-soft.png),
-- Small ERP but full invoice generator without user input after ![PCSoft icon](assets/icons/pc-soft.png),
-- MQTT broker to communicate with 4G devices ![Nodejs icon](assets/icons/nodejs.png).
+- Big ERP <img style="margin:-8px 0" src="../assets/icons/pc-soft.png"> &nbsp;&nbsp; [![link icon](../assets/icons/link.png)](/fr/premier-projet),
+
+- Small ERP but full invoice generator without user input after <img style="margin:-8px 0" src="../assets/icons/pc-soft.png"> &nbsp;&nbsp; [![link icon](../assets/icons/link.png)](/fr/premier-projet),
+
+- MQTT broker to communicate with 4G devices <img style="margin:-8px 0" src="../assets/icons/nodejs.png"> &nbsp;&nbsp; [![link icon](../assets/icons/link.png)](/fr/premier-projet).
  
-### Personnal
+### Personnels
 
 - 

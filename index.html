@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="2;url=/en/">
+    <title>Redirection...</title>
+    <script type="text/javascript">
+        // Détection de la langue du navigateur
+        var userLang = navigator.language || navigator.userLanguage;
+        if (userLang.startsWith('fr')) {
+            window.location.href = "/fr/";
+        } else {
+            window.location.href = "/en/";
+        }
+    </script>
+</head>
+<body>
+    <p>Vous allez être redirigé vers la version de votre langue préférée...</p>
+</body>
+</html>

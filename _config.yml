@@ -1,5 +1,23 @@
-title: "Mon Site"
-description: "Présentation de mes projets"
+langs:
+  - fr
+  - en
+
+default_lang: fr
+
+title: 
+  fr: "Tanguy Blondin"
+  en: "Tanguy Blondin"
+
+description: 
+  fr: "Présentation de mes projets"
+  en: "Projects presentation"
+
+wip_description:
+  fr: "Le site est en cours de création."
+  en: "This website is currently being created."
+
+wip: true
+
 baseurl: "" # Laisse vide si c'est ton site principal, sinon indique "/nom_du_depot"
 url: "http://localhost:4000" # ou l'URL de ton site si c'est en production
 
