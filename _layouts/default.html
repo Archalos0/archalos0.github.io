@@ -9,6 +9,34 @@
 
     {% seo %}
     {% include head-custom.html %}
+
+    <style>
+      #langages {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+      }
+
+      #langages ul{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        padding: 0px;
+      }
+
+      #langages ul li{
+        list-style-type: none;
+        background-color: #0090ff;
+        padding: 5px;
+      }
+
+      #langages ul li a{
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+      }
+    </style>
+
   </head>
 
   <body>
@@ -16,6 +44,13 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
+          <nav id="langages">
+            <ul>
+                <li><a href="/fr/">Français</a></li>
+                <li><a href="/en/">English</a></li>
+            </ul>
+          </nav>
+
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
@@ -34,12 +69,6 @@
             </section>
           {% endif %}
 
-          <nav>
-            <ul>
-                <li><a href="/fr/">Français</a></li>
-                <li><a href="/en/">English</a></li>
-            </ul>
-        </nav>
         </header>
     </div>
 
