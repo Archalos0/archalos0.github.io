@@ -4,8 +4,8 @@ description: >-
   Un Final Fantasy au tour par tour
 author: archalos
 date: 2024-09-02 16:00:00 +0100
-categories: [Project, Personnal]
-tags: [game]
+categories: [Project, Personnal, In-progress]
+tags: [game-dev]
 lang_tags: [Godot, GDScript]
 pin: false
 image:
@@ -22,6 +22,10 @@ Voici la liste des tâches que je dois réalisé prochainement:
 - [ ] Navigation dans le menu du combat
   - [ ] Pouvoir annuler l'action sélectionné (annulé l'action lors de la sélection de la cible)
   - [ ] Pouvoir annuler l'action du joueur précédent (s'il y en a un) 
+  - [ ] Menu des actions dynamique selon les compétences des personnages
+  - [ ] Menu des ennemis et des alliés dynamique selon leur état
+    - [ ] Mort / Vivant
+    - [ ] Poison, Brulure, Gel, Sommeil, Mini, Crapaud, etc
 
 ***
 
