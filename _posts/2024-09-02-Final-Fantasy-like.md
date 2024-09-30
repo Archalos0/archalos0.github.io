@@ -5,7 +5,7 @@ description: >-
 author: archalos
 date: 2024-09-02 16:00:00 +0100
 categories: [Project, Personnal]
-tags: [game-dev, draft, in_progress]
+tags: [game-dev, in_progress]
 lang_tags: [Godot, GDScript]
 pin: false
 github_repo: https://github.com/Archalos0/ff-fangame
@@ -43,12 +43,12 @@ Voici à quoi ressemble mon interface de combat actuelle :
 _Interface actuelle de ma scene de combat_
 
 ## Architecture
+***
 
 ### Interface de combat
 ***
 
-Le système peut être amélioré. Par exemple, l'attribut *_are_all_selected* de MenuHandler peut disparaître puisqu'il n'a pas d'intérêt à être stocké.
-![](/assets/img/menu-system.svg){: width="600"}
+![](/assets/img/menu-system-2.svg){: width="600"}
 
 
 ### Personnage
@@ -222,6 +222,23 @@ classDiagram
         // add additional effect on physical attack
     }
 ```
+
+## Sprites
+
+![](/assets/img/frame-explain.png)
+
+1. Idle
+2. Waiting physical action (attack, defend)
+3. Advance (animation with 1)
+4. ?
+5. Physical attack (animation with 6)
+6. Physical attack (animation with 5)
+7. Casting spell / using items (animation with 8)
+8. Casting spell / using items (animation with 7)
+9. Launchinfg spell
+10. Getting hit
+11. low hp
+12. dead
 
 ## Task list
 
