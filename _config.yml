@@ -23,6 +23,7 @@ url: "http://localhost:4000" # ou l'URL de ton site si c'est en production
 
 remote_theme        : pages-themes/slate@v0.2.0
 
+
 # Where things are
 source              : .
 destination         : ./_site
